@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://imgur.com/a/DipQFNW"><br/>
+    <img src="https://i.imgur.com/G7t81dd.png"><br/>
     Simple yet flexible JavaScript charting for designers & developers
 </p>
 
